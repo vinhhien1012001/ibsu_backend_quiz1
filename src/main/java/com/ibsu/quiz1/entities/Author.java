@@ -5,6 +5,7 @@ import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
+// Requirement 2
 @Entity
 @Table(name = "authors")
 public class Author {

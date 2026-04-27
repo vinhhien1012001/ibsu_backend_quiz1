@@ -2,6 +2,7 @@ package com.ibsu.quiz1.entities;
 
 import jakarta.persistence.*;
 
+// Requirement 2
 @Entity
 @Table(name = "books")
 public class Book {

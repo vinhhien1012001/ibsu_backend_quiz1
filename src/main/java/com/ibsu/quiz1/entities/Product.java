@@ -5,6 +5,7 @@ import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
+// Requirement 1
 @Entity
 @Table(name = "products")
 public class Product {
